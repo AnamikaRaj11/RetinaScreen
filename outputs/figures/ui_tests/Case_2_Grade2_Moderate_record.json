@@ -1,6 +1,6 @@
 {
-  "report_id": "RS-1793747795",
-  "timestamp": "2026-11-04 04:46:35",
+  "report_id": "RS-1793825698",
+  "timestamp": "2026-11-05 02:24:58",
   "predicted_grade": 3,
   "severity_name": "Severe",
   "confidence_pct": 42.27,
@@ -8,7 +8,7 @@
   "referral_action": "Fast-Track Specialist Referral (Vitreoretinal)",
   "target_timeframe": "1 - 2 weeks",
   "urgency_tier": "High (Urgent Referral)",
-  "quality_audit": "\u2705 Adequate Diagnostic Quality (Passed T2 Quality Gate)",
+  "quality_audit": "Passed: Adequate Diagnostic Quality (Passed T2 Quality Gate)",
   "mean_brightness": 94.58,
   "blur_score": 593.44,
   "lifestyle_provided": true,

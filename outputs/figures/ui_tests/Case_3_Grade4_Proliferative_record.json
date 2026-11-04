@@ -1,6 +1,6 @@
 {
-  "report_id": "RS-1793747797",
-  "timestamp": "2026-11-04 04:46:37",
+  "report_id": "RS-1793825700",
+  "timestamp": "2026-11-05 02:25:00",
   "predicted_grade": 4,
   "severity_name": "Proliferative DR",
   "confidence_pct": 37.08,
@@ -8,7 +8,7 @@
   "referral_action": "Emergency Vitreoretinal Consultation",
   "target_timeframe": "Within 24 - 48 hours",
   "urgency_tier": "Emergency (Imminent Vision Threat)",
-  "quality_audit": "\u2705 Adequate Diagnostic Quality (Passed T2 Quality Gate)",
+  "quality_audit": "Passed: Adequate Diagnostic Quality (Passed T2 Quality Gate)",
   "mean_brightness": 95.25,
   "blur_score": 536.01,
   "lifestyle_provided": true,

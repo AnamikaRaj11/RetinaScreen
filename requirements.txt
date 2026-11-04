@@ -1,6 +1,5 @@
 pandas
 numpy
-opencv-python
 opencv-contrib-python
 scikit-image
 scikit-learn
@@ -13,4 +12,14 @@ imagehash
 umap-learn
 spacy
 nltk
-gradio
+gradio>=6.0,<7
+
+Pillow
+joblib
+scipy
+reportlab
+rank-bm25
+tabulate
+statsmodels
+shap
+nbformat

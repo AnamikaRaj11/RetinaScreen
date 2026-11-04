@@ -222,7 +222,7 @@ def plot_training_and_confusion_figures():
     ax2.legend(frameon=True)
     ax2.grid(True, linestyle="--", alpha=0.5)
 
-    fig.suptitle("T6: ResNet-101 CNN Convergence & Validation Trajectory", fontsize=14, fontweight="bold", y=0.98)
+    fig.suptitle("T6: Illustrative Training Trajectory (not measured logs)", fontsize=14, fontweight="bold", y=0.98)
     fig.tight_layout()
     fig.savefig(FIG_TRAIN, dpi=300)
     plt.close(fig)
@@ -243,7 +243,7 @@ def plot_training_and_confusion_figures():
         yticklabels=[f"G{g}: {CLASS_LABELS[g]}" for g in range(5)],
         annot_kws={"size": 13, "fontweight": "bold"}
     )
-    ax.set_title("T6: Validation Confusion Matrix (5-Class Severity Grading)\nAdjacent Misclassifications Incur Lower Quadratic Penalty", fontsize=12, fontweight="bold", pad=12)
+    ax.set_title("T6: Illustrative Confusion Matrix (not held-out predictions)\nAdjacent Misclassifications Incur Lower Quadratic Penalty", fontsize=12, fontweight="bold", pad=12)
     ax.set_xlabel("AI Predicted Grade", fontsize=11, fontweight="bold")
     ax.set_ylabel("Clinical Ground Truth Grade", fontsize=11, fontweight="bold")
     plt.xticks(rotation=20, ha="right", fontsize=9)

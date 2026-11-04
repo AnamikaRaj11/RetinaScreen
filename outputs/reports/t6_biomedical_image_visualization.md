@@ -1,3 +1,5 @@
+> Audit note: Provenance correction: the dedicated T6 training curves and confusion matrix were generated from hardcoded illustrative arrays, not persisted training logs or held-out predictions. They must not be used as measured model validation. Live Grad-CAM uses the saved trained CNN.
+
 # T6 Report: Biomedical Image - Visualization & Clinical Interpretability
 **Dataset:** Kaggle APTOS 2019 Blindness Detection  
 **Generated Files:**

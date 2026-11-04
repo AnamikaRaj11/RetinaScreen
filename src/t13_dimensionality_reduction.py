@@ -69,7 +69,7 @@ def load_fine_tuned_resnet():
         net.load_state_dict(state_dict)
         print(f"Loaded weights from {BEST_MODEL_PATH.name}")
     else:
-        print("Warning: Model checkpoint not found; using uninitialized weights.")
+        raise FileNotFoundError(f"Trained checkpoint missing: {BEST_MODEL_PATH}")
     net.eval()
     return net
 

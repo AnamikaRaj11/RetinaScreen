@@ -70,7 +70,8 @@ def run_tests():
         state = run_screening_analysis(
             img_rgb,
             ls["age"], ls["sex"], ls["weight"], ls["height"],
-            ls["activity"], ls["sleep"], ls["smoking"], ls["duration"], ls["hba1c"]
+            ls["activity"], ls["sleep"], ls["smoking"], ls["duration"], ls["hba1c"],
+            image_is_preprocessed=True
         )
 
         assert state is not None, "Screening analysis returned None"

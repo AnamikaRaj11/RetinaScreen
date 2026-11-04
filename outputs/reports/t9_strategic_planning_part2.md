@@ -1,3 +1,5 @@
+> Audit note: Interpretation correction: threshold recall adjustments and costs below are scenario assumptions. They do not establish measured threshold sensitivity/specificity or a validated optimal clinical policy. The interactive app computes cohort referral shares directly and labels costs as simulated.
+
 # T9 Report: Strategic Planning Part 2 - Predictive & Prescriptive Analysis
 
 ## Editable Cost Assumptions

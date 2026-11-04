@@ -1,6 +1,6 @@
 {
-  "report_id": "RS-1793747793",
-  "timestamp": "2026-11-04 04:46:33",
+  "report_id": "RS-1793825696",
+  "timestamp": "2026-11-05 02:24:56",
   "predicted_grade": 0,
   "severity_name": "No DR",
   "confidence_pct": 74.7,
@@ -8,7 +8,7 @@
   "referral_action": "Routine Annual Primary Care Surveillance",
   "target_timeframe": "12 months",
   "urgency_tier": "Normal",
-  "quality_audit": "\u2705 Adequate Diagnostic Quality (Passed T2 Quality Gate)",
+  "quality_audit": "Passed: Adequate Diagnostic Quality (Passed T2 Quality Gate)",
   "mean_brightness": 100.4,
   "blur_score": 1296.35,
   "lifestyle_provided": true,
