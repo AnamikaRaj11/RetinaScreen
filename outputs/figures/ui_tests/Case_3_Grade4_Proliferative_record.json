@@ -1,0 +1,49 @@
+{
+  "report_id": "RS-1793747797",
+  "timestamp": "2026-11-04 04:46:37",
+  "predicted_grade": 4,
+  "severity_name": "Proliferative DR",
+  "confidence_pct": 37.08,
+  "is_borderline": true,
+  "referral_action": "Emergency Vitreoretinal Consultation",
+  "target_timeframe": "Within 24 - 48 hours",
+  "urgency_tier": "Emergency (Imminent Vision Threat)",
+  "quality_audit": "\u2705 Adequate Diagnostic Quality (Passed T2 Quality Gate)",
+  "mean_brightness": 95.25,
+  "blur_score": 536.01,
+  "lifestyle_provided": true,
+  "actual_bmi": 32.83,
+  "pred_bmi": 30.74,
+  "behavioral_cluster": "Profile 3: Younger High-Calorie At-Risk",
+  "multimodal_score": 70.66,
+  "class_probabilities": {
+    "Grade 0 (No DR)": 0.0303,
+    "Grade 1 (Mild)": 0.1155,
+    "Grade 2 (Moderate)": 0.1927,
+    "Grade 3 (Severe)": 0.2908,
+    "Grade 4 (Proliferative DR)": 0.3708
+  },
+  "top_similar_cases": [
+    {
+      "rank": 1,
+      "record_id": "d3d578fe433f",
+      "severity_grade": 2,
+      "severity_name": "Moderate",
+      "cosine_similarity": 0.962399959564209
+    },
+    {
+      "rank": 2,
+      "record_id": "7bc4dd99eee5",
+      "severity_grade": 4,
+      "severity_name": "Proliferative DR",
+      "cosine_similarity": 0.9609401226043701
+    },
+    {
+      "rank": 3,
+      "record_id": "69fff98cb32a",
+      "severity_grade": 4,
+      "severity_name": "Proliferative DR",
+      "cosine_similarity": 0.9543420076370239
+    }
+  ]
+}

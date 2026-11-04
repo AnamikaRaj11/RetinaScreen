@@ -1,0 +1,6 @@
+grade,severity_name,precision,recall,f1_score,support
+0,No DR,0.9836,0.9836,0.9836,61
+1,Mild,0.4545,0.4545,0.4545,11
+2,Moderate,0.0,0.0,0.0,32
+3,Severe,0.1364,1.0,0.24,6
+4,Proliferative DR,0.0,0.0,0.0,10

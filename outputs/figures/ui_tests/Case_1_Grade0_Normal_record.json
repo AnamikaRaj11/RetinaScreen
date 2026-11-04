@@ -1,0 +1,49 @@
+{
+  "report_id": "RS-1793747793",
+  "timestamp": "2026-11-04 04:46:33",
+  "predicted_grade": 0,
+  "severity_name": "No DR",
+  "confidence_pct": 74.7,
+  "is_borderline": false,
+  "referral_action": "Routine Annual Primary Care Surveillance",
+  "target_timeframe": "12 months",
+  "urgency_tier": "Normal",
+  "quality_audit": "\u2705 Adequate Diagnostic Quality (Passed T2 Quality Gate)",
+  "mean_brightness": 100.4,
+  "blur_score": 1296.35,
+  "lifestyle_provided": true,
+  "actual_bmi": 24.16,
+  "pred_bmi": 23.21,
+  "behavioral_cluster": "Profile 0: Sedentary High-Stress",
+  "multimodal_score": 12.91,
+  "class_probabilities": {
+    "Grade 0 (No DR)": 0.747,
+    "Grade 1 (Mild)": 0.0692,
+    "Grade 2 (Moderate)": 0.052,
+    "Grade 3 (Severe)": 0.0707,
+    "Grade 4 (Proliferative DR)": 0.0611
+  },
+  "top_similar_cases": [
+    {
+      "rank": 1,
+      "record_id": "e66855a5c583",
+      "severity_grade": 0,
+      "severity_name": "No DR",
+      "cosine_similarity": 0.9822436571121216
+    },
+    {
+      "rank": 2,
+      "record_id": "07751b94a88a",
+      "severity_grade": 0,
+      "severity_name": "No DR",
+      "cosine_similarity": 0.9810886383056641
+    },
+    {
+      "rank": 3,
+      "record_id": "57a710de68a4",
+      "severity_grade": 0,
+      "severity_name": "No DR",
+      "cosine_similarity": 0.9800513386726379
+    }
+  ]
+}

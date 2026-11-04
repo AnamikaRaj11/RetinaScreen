@@ -1,0 +1,21 @@
+grade,severity,record_id,method,psnr_db,ssim
+0,No DR,002c21358ce6,Degraded,20.36,0.194
+0,No DR,002c21358ce6,Bilateral,23.43,0.3841
+0,No DR,002c21358ce6,NLM,22.64,0.3349
+0,No DR,002c21358ce6,Deblur_RL,19.56,0.1898
+1,Mild,0024cdab0c1e,Degraded,21.66,0.15
+1,Mild,0024cdab0c1e,Bilateral,27.08,0.4978
+1,Mild,0024cdab0c1e,NLM,25.95,0.4976
+1,Mild,0024cdab0c1e,Deblur_RL,20.37,0.1315
+2,Moderate,00b74780d31d,Degraded,21.88,0.1563
+2,Moderate,00b74780d31d,Bilateral,27.92,0.5623
+2,Moderate,00b74780d31d,NLM,26.77,0.5944
+2,Moderate,00b74780d31d,Deblur_RL,20.5,0.1335
+3,Severe,0104b032c141,Degraded,20.95,0.2194
+3,Severe,0104b032c141,Bilateral,24.52,0.4845
+3,Severe,0104b032c141,NLM,23.62,0.4434
+3,Severe,0104b032c141,Deblur_RL,19.98,0.206
+4,Proliferative DR,0083ee8054ee,Degraded,21.35,0.1706
+4,Proliferative DR,0083ee8054ee,Bilateral,25.95,0.4604
+4,Proliferative DR,0083ee8054ee,NLM,24.88,0.4343
+4,Proliferative DR,0083ee8054ee,Deblur_RL,20.18,0.1553

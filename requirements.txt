@@ -1,0 +1,16 @@
+pandas
+numpy
+opencv-python
+opencv-contrib-python
+scikit-image
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+tqdm
+imagehash
+umap-learn
+spacy
+nltk
+gradio

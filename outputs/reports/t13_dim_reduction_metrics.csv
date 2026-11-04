@@ -1,0 +1,14 @@
+Analysis,Configuration,Value
+Silhouette Score,PCA (Severity),0.1758
+Silhouette Score,t-SNE (Severity),0.1476
+Silhouette Score,UMAP (Severity),0.071
+Silhouette Score,PCA (Quality),-0.2168
+Silhouette Score,t-SNE (Quality),-0.3586
+Silhouette Score,UMAP (Quality),-0.3681
+Davies-Bouldin Index,PCA (Severity),4.2867
+Davies-Bouldin Index,t-SNE (Severity),4.2168
+Davies-Bouldin Index,UMAP (Severity),6.5563
+PCA Variance,PC1 Explained,0.49320000410079956
+PCA Variance,PC2 Explained,0.1136000007390976
+PCA Variance,Top 10 Cumulative,0.9081000089645386
+PCA Variance,Top 50 Cumulative,0.9732000231742859

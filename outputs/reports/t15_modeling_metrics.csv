@@ -1,0 +1,13 @@
+Model,Metric,Value
+OLS Linear Regression (Interactions),R2_Score,0.3149
+OLS Linear Regression (Interactions),RMSE,3.7942
+OLS Linear Regression (Interactions),MAE,2.0577
+OLS Linear Regression (Interactions),CV_R2_Score,0.3149
+Random Forest Regressor,R2_Score,0.3261
+Random Forest Regressor,RMSE,3.763
+Random Forest Regressor,MAE,2.0642
+Random Forest Regressor,CV_R2_Score,0.3242
+Gradient Boosting Regressor,R2_Score,0.3445
+Gradient Boosting Regressor,RMSE,3.7112
+Gradient Boosting Regressor,MAE,1.9977
+Gradient Boosting Regressor,CV_R2_Score,0.3483

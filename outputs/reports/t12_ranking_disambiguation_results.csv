@@ -1,0 +1,25 @@
+Category,Metric,Value
+Ranking,Precision@5 (TF-IDF),1.0
+Ranking,Precision@5 (BM25),1.0
+Ranking,Overlap@5,0.2
+Ranking,Precision@10 (TF-IDF),1.0
+Ranking,Precision@10 (BM25),1.0
+Ranking,Overlap@10,0.7
+Ranking,Precision@20 (TF-IDF),1.0
+Ranking,Precision@20 (BM25),1.0
+Ranking,Overlap@20,0.85
+Ranking,Precision@50 (TF-IDF),1.0
+Ranking,Precision@50 (BM25),1.0
+Ranking,Overlap@50,0.86
+Ranking,Precision@100 (TF-IDF),1.0
+Ranking,Precision@100 (BM25),1.0
+Ranking,Overlap@100,0.96
+Ranking,Spearman Rank Correlation,0.9888320157239534
+WSD,Lesk Accuracy: discharge,1.0
+WSD,Context-Emb Accuracy: discharge,1.0
+WSD,Lesk Accuracy: positive,0.9
+WSD,Context-Emb Accuracy: positive,0.9
+WSD,Lesk Accuracy: stable,1.0
+WSD,Context-Emb Accuracy: stable,1.0
+WSD,Lesk Accuracy: dense,1.0
+WSD,Context-Emb Accuracy: dense,1.0
